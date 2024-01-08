@@ -353,6 +353,7 @@
     font-size: 18px;
     font-weight: 400;
     padding-left: 25px;
+    outline: none;
 
 }
 
@@ -411,3 +412,4 @@ line-height: 40px;
     
     
 }
+
