@@ -368,3 +368,46 @@
     font-weight: 600;
 
 }
+.footer{
+    background: #070211;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    height: 450px;
+}
+.footer_address{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 100px 40px;
+}
+hr{
+    width: 1320px;
+    margin: 0 auto;
+}
+.footer_address h2{
+    color: #FFF;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+}
+.footer_social div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.footer_social div img{
+    margin-right: 10px;
+}
+.footer_icons{
+    margin: 40px auto;
+    text-align: center;
+}
+.copyright{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px 100px;
+    
+    
+}
