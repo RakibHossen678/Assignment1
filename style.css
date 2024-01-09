@@ -420,3 +420,42 @@ hr {
     
 
 }
+
+/* Holidays section */
+.Holiday{
+    padding:70px 100px;
+
+}
+.div_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    
+    
+}
+
+.div1{
+position: absolute;
+top: 70px;
+z-index: 1;
+}
+.div1 img{
+width: 700px;
+
+}
+.div2{
+position: relative;
+left: 579px;
+top: 10px;
+
+
+}
+.div_sec{
+position: relative;
+}
+.img{
+    position: relative;
+    left: 160px;
+}
+/* Holidays section */
